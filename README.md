@@ -1,1 +1,1 @@
-# Customer-Behavior-Analysis
+This project focuses on analyzing customer shopping behavior data to identify purchasing patterns, customer preferences, and revenue trends. The analysis helps businesses understand customer behavior and make data-driven decisions for improving sales, customer retention, and marketing strategies.# Customer-Behavior-Analysis
